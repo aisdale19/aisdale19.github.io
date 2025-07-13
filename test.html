@@ -1,1 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Site Pages Validation</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: left;
+    }
+    th {
+      background-color: #f0f0f0;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Site Pages Validation</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Page Name</th>
+        <th>Public URL</th>
+        <th>Validate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Homepage</td>
+        <td><a href="https://yourdomain.com/index.html" target="_blank">https://yourdomain.com/index.html</a></td>
+        <td><a href="https://validator.w3.org/nu/?doc=https://yourdomain.com/index.html" target="_blank">Validate</a></td>
+      </tr>
+      <tr>
+        <td>About</td>
+        <td><a href="https://yourdomain.com/pages/about.html" target="_blank">https://yourdomain.com/pages/about.html</a></td>
+        <td><a href="https://validator.w3.org/nu/?doc=https://yourdomain.com/pages/about.html" target="_blank">Validate</a></td>
+      </tr>
+      <tr>
+        <td>Contact</td>
+        <td><a href="https://yourdomain.com/pages/contact.html" target="_blank">https://yourdomain.com/pages/contact.html</a></td>
+        <td><a href="https://validator.w3.org/nu/?doc=https://yourdomain.com/pages/contact.html" target="_blank">Validate</a></td>
+      </tr>
+      <!-- Add more pages as needed -->
+    </tbody>
+  </table>
+</body>
+</html>
 
