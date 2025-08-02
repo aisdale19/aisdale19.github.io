@@ -37,7 +37,12 @@
       color: #555;
       margin-top: 0;
     }
-
+    footer {
+      margin-top: 30px;
+      text-align: center;
+      font-size: 0.8em;
+      color: gray;
+    }
 
 
 
