@@ -43,6 +43,21 @@
       font-size: 0.8em;
       color: gray;
     }
+    table {
+       width: 100%; /* Make tables take up the full width of their container */
+       border-collapse: collapse; /* Make borders look cleaner */
+       margin-bottom: 2rem;
+     }
+
+    th, td {
+       border: 1px solid #dddddd;
+       text-align: left;
+       padding: 8px;
+      }
+
+    thead {
+       background-color: #f2f2f2; /* Give the header a light gray background */
+       }
 
 
 
