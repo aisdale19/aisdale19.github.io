@@ -1,5 +1,14 @@
 /* css/main.css - The Brand Bible */
 
+
+@font-face {
+  font-family: 'Roboto-Latin'; /
+  src: url('/fonts/Roboto-Latin.woff2') format('woff2'); /* Point to the file path */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
  body {
 
       background-color: white;
