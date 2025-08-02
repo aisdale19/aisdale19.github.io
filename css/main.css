@@ -77,3 +77,35 @@
        max-width:100%;
 }
 
+/* === Component: Buttons === */
+
+/* Primary Call-to-Action Button - For the MOST important action */
+.btn-primary {
+  display: inline-block; /* Allows us to set padding */
+  background-color: #007BFF; /* A clear, attention-grabbing blue */
+  color: white;
+  padding: 12px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  border: none;
+}
+
+/* Add a hover effect for better user experience */
+.btn-primary:hover {
+  background-color: #0056b3; /* A darker blue on hover */
+}
+
+/* Secondary Button - For less critical actions like "Learn More" */
+.btn-secondary {
+  display: inline-block;
+  background-color: #6c757d; /* A neutral gray */
+  color: white;
+  padding: 10px 18px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
