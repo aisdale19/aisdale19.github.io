@@ -82,7 +82,7 @@
 /* Primary Call-to-Action Button - For the MOST important action */
 .btn-primary {
   display: inline-block; /* Allows us to set padding */
-  background-color: #007BFF; /* A clear, attention-grabbing blue */
+  background-color: red; /* A clear, attention-grabbing blue */
   color: white;
   padding: 12px 20px;
   border-radius: 5px;
