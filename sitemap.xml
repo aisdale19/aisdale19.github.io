@@ -20,6 +20,18 @@
   <url>
     <loc>https://aisdale19.github.io/gallery.html</loc>
   </url>
+   <!-- Marketing Page -->
+  <url>
+    <loc>https://aisdale19.github.io/marketing/index.html</loc>
+  </url>
+  <!-- Features Page -->
+  <url>
+    <loc>https://aisdale19.github.io/marketing/features.html</loc>
+  </url>
+  <!-- Pricing Page -->
+  <url>
+    <loc>https://aisdale19.github.io/marketing/pricing.html</loc>
+  </url>
 </urlset>
 
 
