@@ -95,7 +95,7 @@ img {
   background-color: #0056b3; /* A darker blue on hover */
 }
 
-iframe {
+.iframe {
   max-width: 100%; /* Ensures the iframe never overflows its container */
   border: 0; /* Removes the default border */
   height:auto;
