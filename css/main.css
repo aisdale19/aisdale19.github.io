@@ -109,3 +109,12 @@
 .btn-secondary:hover {
   background-color: #5a6268;
 }
+media (max-width: 768px) {
+
+   body {
+
+      background-color: purple;
+      font-family: 'Roboto-Latin';
+      margin: 0; padding: 0;
+    }
+}
