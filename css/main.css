@@ -108,16 +108,15 @@ html {
   background-color: #0056b3; /* A darker blue on hover */
 }
 
-@media (max-width:768px) {
-
-   body {
-      background-color: purple;
-    }
-}
-
 iframe {
   max-width: 100%; /* Ensures the iframe never overflows its container */
   border: 0; /* Removes the default border */
   height:auto;
 }
 
+@media (max-width:768px) {
+
+   body {
+      background-color: purple;
+    }
+}
