@@ -108,13 +108,10 @@ html {
   background-color: #0056b3; /* A darker blue on hover */
 }
 
-media (max-width:100000px) {
+@media (max-width:768px) {
 
    body {
-
       background-color: purple;
-      font-family: 'Roboto-Latin';
-      margin: 0; padding: 0;
     }
 }
 
