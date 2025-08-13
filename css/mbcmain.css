@@ -79,7 +79,7 @@ img {
 /* Primary Call-to-Action Button - For the MOST important action */
 .btn-primary {
   display: inline-block; /* Allows us to set padding */
-  background-color: red; /* A clear, attention-grabbing blue */
+  background-color: #6f4e37; 
   color: white;
   padding: 0.75rem 1.25rem; /* 12px 20px */
   border-radius: 0.25rem; /* 5px */
