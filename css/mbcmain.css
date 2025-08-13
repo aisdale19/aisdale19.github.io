@@ -17,7 +17,7 @@ body {
   font-size: 1rem; /* ADDED: This will be 16px */
 }
 nav {
-  background-color: #333;
+  background-color: #9A583;
   color: white;
   padding: 0.5rem 1.25rem; /* 10px 20px */
   display: flex;
@@ -44,7 +44,7 @@ header.hero h1 {
 }
 header.hero p {
   font-size: 1.5rem;
-  color: #b5651d;
+  color: #555;
   margin-top: 0;
 }
 footer {
