@@ -41,11 +41,13 @@ header.hero {
 header.hero h1 {
   font-size: 3rem;
   margin-bottom: 0.5rem; /* 10px */
+  text-align: center;
 }
 header.hero p {
   font-size: 1.5rem;
   color: #555;
   margin-top: 0;
+  text-align: center;
 }
 footer {
   margin-top: 2rem; /* 30px */
