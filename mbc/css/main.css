@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Roboto-Latin';
-  src: url('../fonts/Roboto-Latin.woff2') format('woff2'); /* Point to the file path */
+  src: url('/mbc/css/fonts/Roboto-Latin.woff2') format('woff2'); /* Point to the file path */
   font-weight: normal;
   font-style: normal;
 }
