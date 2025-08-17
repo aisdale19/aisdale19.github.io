@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://aisdale19.github.io/mb/index.html</loc>
+    <loc>https://aisdale19.github.io/mbc/prosite/index.html</loc>
   </url>
   <!-- About Us Page -->
   <url>
-    <loc>https://aisdale19.github.io/mbc/about.html</loc>
+    <loc>https://aisdale19.github.io/mbc/prosite/about.html</loc>
   </url>
   <!-- Pricing Page -->
   <url>
-    <loc>https://aisdale19.github.io/mbc/subscription.html</loc>
+    <loc>https://aisdale19.github.io/mbc/prosite/subscription.html</loc>
   </url>
   <!-- Contacts Page -->
   <url>
-    <loc>https://aisdale19.github.io/mbc/contact.html</loc>
+    <loc>https://aisdale19.github.io/mbc/prosite/contact.html</loc>
   </url>
   <!-- Gallery Page -->
   <url>
-    <loc>https://aisdale19.github.io/mbc/gallery.html</loc>
+    <loc>https://aisdale19.github.io/mbc/prosite/gallery.html</loc>
   </url>
 
 </urlset>
